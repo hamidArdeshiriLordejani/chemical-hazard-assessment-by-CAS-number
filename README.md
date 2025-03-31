@@ -51,3 +51,11 @@ Install them using:
 
 ```bash
 pip install pubchempy pillow requests
+
+🚀 Run It
+python GOOD-GUI2_FINAL_PUBCHEM_LINK_ONLY.py
+
+📄 License
+MIT — free to use and modify. Give credit if you fork or reuse this tool!
+
+
